@@ -1,0 +1,1 @@
+export * as  userCtr from "./user" 
